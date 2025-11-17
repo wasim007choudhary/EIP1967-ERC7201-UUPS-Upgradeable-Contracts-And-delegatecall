@@ -1,5 +1,21 @@
-# 🤖✨ UPGRADEABLE SMART CONTRACTS — THE COMPLETE STORYBOOK + AUDITOR-GRADE GUIDE  
-### *Based on your TU1 → TU2 UUPS system (EIP-1967 + ERC-7201)*
+  
+
+# 🤖✨ Upgradeable SmartContracts
+## 📚 Understanding Proxy Patterns, Delegatecall, EIP-1967, ERC-7201, UUPS & Storage-Safe Upgrade Principles
+
+
+
+
+[![Solidity](https://img.shields.io/badge/solidity-^0.8.26-blue.svg?logo=ethereum)](https://soliditylang.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/wasim007choudhary/EIP1967-UUPS-Upgradeable-Contracts-And-delegatecall-?style=social)](https://github.com/wasim007choudhary/EIP1967-UUPS-Upgradeable-Contracts-And-delegatecall-/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/wasim007choudhary/EIP1967-UUPS-Upgradeable-Contracts-And-delegatecall-)](https://github.com/wasim007choudhary/EIP1967-UUPS-Upgradeable-Contracts-And-delegatecall-/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![X (Twitter)](https://img.shields.io/badge/X-@i___wasim-black?logo=x)](https://x.com/i___wasim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wasim%20Choudhary-blue?logo=linkedin)](https://www.linkedin.com/in/wasim-007-choudhary/)
+
+
+
+---
 
 This README is written so:
 
